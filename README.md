@@ -1,0 +1,1 @@
+Setting up repository for capstone project to the readme file.
