@@ -2,3 +2,12 @@ Setting up repository for capstone project to the readme file. Pushed readme fil
 Setting up the MySQL instance server in MySQL Workbench (See folder Exercise2_SettingUpInstanceServer)
 Created ER Diagram data model and implemented it in MySQL using forward engineer (See folder Exercise3_CreateERModel_Implement)
 Created New Branch in local repository, added my folder holding my screen shots of my project exercises to the branch, create Pull Request and Merge Pull Request. Update Main branch(see Exercise4_CreateBranch)
+Created littlelemon Datamodel and implemented using Forward Engineer (See Exercise3_CreateERModel_implement)
+Added values to tables (See Exercise5_Week2_CreateVirtual Table>Adding Table Values)
+Created virutal table and performed a sql query extracting the OrderID, Quantity, and Cost data from the Orders table based on orders with quantity greater than 2 (See Exercise5_CreateVirtualTable>Tasks)
+Updated prices on Orders table to comply with Task 2 sql query 
+Complete task2 sql query (See Exercise5_CreateVirtualTable>Tasks)
+Complete task3 created nested query (See Exercise5_CreateVirtualTable>Tasks)
+Created stored procedure GetMaxQuantity and called it back (See Exercise6_week2_storedProcedures>Tasks)
+Created prepared statement (See Exercise6_week2_storedProcedures>Tasks)
+Created stored procedure to drop order from user input (See Exercise6_week2_storedProcedures>Tasks)
