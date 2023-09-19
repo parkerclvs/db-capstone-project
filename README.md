@@ -14,3 +14,4 @@ Created stored procedure to drop order from user input (See Exercise6_week2_stor
 Added new values to bookings table (See Exercise7_Week2>Tasks)
 Created Procedure called CheckBooking (See Exercise7_Week2>Tasks)
 Created new procedure called AddValidBooking and ran Calls to verify booking accepted or table already booked (See Exercise7_week2>Tasks)
+Created new procedure called AddBooking and ran call to verify booking accepted (See Exercise8_week2>Tasks)
